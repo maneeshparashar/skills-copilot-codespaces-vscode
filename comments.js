@@ -1,5 +1,6 @@
 // create web server
-const express = require('express');
-const app = express();
-const path = require('path');
-const fs = require('fs');
+// create a route to handle comments
+// create a route to handle comments/new
+// create a route to handle comments/:id
+// create a route to handle comments/:id/edit
+// create a route to handle comments/:id/delete
